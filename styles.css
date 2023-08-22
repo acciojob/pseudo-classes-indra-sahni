@@ -9,7 +9,7 @@ p:first-child{
 p:last-child{
 	color: red;
 }
-ul{
+ul>li{
 	background-color: grey;
 	width: 50%;
 	padding: 10px;
