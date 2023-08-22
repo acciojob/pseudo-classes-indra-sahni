@@ -6,6 +6,9 @@ p:first-child{
 	background-color: black;
 	color: white;
 }
+p:nth-child(2){
+	color: rgb(97,130,137);
+}
 p:last-child{
 	color: red;
 }
